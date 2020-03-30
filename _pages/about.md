@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Economics at Harvard University. My research focuses on political, experimental, and behavioral economics. 
+I am a Ph.D. student in Economics at Harvard University and a Graduate Student Affiliate at the [Center for History Economics](https://histecon.fas.harvard.edu/) and the [Institute for Quantiative Social Science](https://www.iq.harvard.edu/). My research focuses on political, experimental, and behavioral economics. 
