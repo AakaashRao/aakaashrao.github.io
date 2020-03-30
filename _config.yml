@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Aakaash Rao"
   avatar           : "profile.png"
-  bio              : "Ph.D. Student, Harvard University Department of Economics"
-  location         : "Cambridge, MA"
-  employer         : ""
+  bio              : 
+  location         : 
+  employer         : 
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "arao@g.harvard.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
