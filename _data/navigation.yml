@@ -1,10 +1,8 @@
 # main links links
 main:
-  - title: "Research"
-    url: /research/
     
   - title: "CV"
     url: https://www.dropbox.com/s/1hsea811h6bjuwx/cv2.pdf?dl=0
     
   - title: "Music"
-    url: https://www.notebynotestudios.com
+    url: https://notebynotestudios.com
