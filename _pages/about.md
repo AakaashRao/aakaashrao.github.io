@@ -9,3 +9,11 @@ redirect_from:
 ---
 
 I am a Ph.D. student in Economics at Harvard University and a Graduate Student Affiliate at the [Center for History Economics](https://histecon.fas.harvard.edu/) and the [Institute for Quantiative Social Science](https://www.iq.harvard.edu/). My research focuses on political, experimental, and behavioral economics. 
+
+## Research
+### Working Papers
+- [I Have Nothing Against Them, But...](https://www.dropbox.com/s/o9w40t4sztuq2ti/excuses.pdf?dl=0) (with Leonardo Bursztyn, Ingar Haaland, and Chris Roth)
+
+### Work in Progress
+- The Social Cost of Partisanship: Ideological Adverse Selection Under the Affordable Care Act (with Leonardo Bursztyn, Jonathan Kolstad, Pietro Tebaldi, and Noam Yuchtman)
+- Private Attitudes, Political Norms, and Cultural Barriers to Higher Education: Chinese College Students in the US (with David Yang and Noam Yuchtman)
