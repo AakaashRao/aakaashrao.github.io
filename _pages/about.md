@@ -12,7 +12,7 @@ I am a deferred Ph.D. student in Economics at Harvard University (beginning Fall
 
 ## Research
 ### Working Papers
-- [I Have Nothing Against Them, But...](https://www.dropbox.com/s/o9w40t4sztuq2ti/excuses.pdf?dl=0) (with Leonardo Bursztyn, Ingar Haaland, and Chris Roth)
+- [I Have Nothing Against Them, But...](https://www.dropbox.com/sh/i25wunifblzbkjp/AADiwEgXhDh5gQuhkot5Yq8da?dl=0) (with Leonardo Bursztyn, Ingar Haaland, and Chris Roth)
 
 ### Work in Progress
 - The Social Cost of Partisanship: Ideological Adverse Selection Under the Affordable Care Act (with Leonardo Bursztyn, Jonathan Kolstad, Pietro Tebaldi, and Noam Yuchtman)
