@@ -12,6 +12,7 @@ I am a deferred Ph.D. student in Economics at Harvard University (beginning Fall
 
 ## Research
 ### Working Papers
+- [Misinformation During a Pandemic](https://www.dropbox.com/s/7nl9998zuwdk81i/Misinformation_During_a_Pandemic.pdf?dl=1) (with Leonardo Bursztyn, Chris Roth, and David Yanagizawa-Drott)
 - [I Have Nothing Against Them, But...](https://www.dropbox.com/sh/i25wunifblzbkjp/AADiwEgXhDh5gQuhkot5Yq8da?dl=0) (with Leonardo Bursztyn, Ingar Haaland, and Chris Roth)
 
 ### Work in Progress
