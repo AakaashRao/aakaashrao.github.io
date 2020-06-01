@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a deferred Ph.D. student in Economics at Harvard University (beginning Fall 2020) and a Graduate Student Affiliate at the [Center for History and Economics](https://histecon.fas.harvard.edu/) and the [Institute for Quantitative Social Science](https://www.iq.harvard.edu/). My research focuses on political, experimental, and behavioral economics. 
+I am a deferred Ph.D. student in Economics at Harvard University (beginning Fall 2020) and a Graduate Student Affiliate at the [Center for History and Economics](https://histecon.fas.harvard.edu/) and the [Institute for Quantitative Social Science](https://www.iq.harvard.edu/). My research focuses on political, experimental, and behavioral economics. I graduated from the University of Chicago in December 2018 with degrees in economics and mathematics.
 
 ## Research
 ### Working Papers
 - [Misinformation During a Pandemic](https://www.dropbox.com/s/7nl9998zuwdk81i/Misinformation_During_a_Pandemic.pdf?dl=1) (with Leonardo Bursztyn, Chris Roth, and David Yanagizawa-Drott)
-- [I Have Nothing Against Them, But...](https://www.dropbox.com/sh/i25wunifblzbkjp/AADiwEgXhDh5gQuhkot5Yq8da?dl=0) (with Leonardo Bursztyn, Ingar Haaland, and Chris Roth)
+- [I Have Nothing Against Them, But...](https://www.dropbox.com/s/m732nyi5kpbwf63/excuses.pdf?dl=0) (with Leonardo Bursztyn, Ingar Haaland, and Chris Roth)
 
 ### Work in Progress
 - The Social Cost of Partisanship: Ideological Adverse Selection Under the Affordable Care Act (with Leonardo Bursztyn, Jonathan Kolstad, Pietro Tebaldi, and Noam Yuchtman)
