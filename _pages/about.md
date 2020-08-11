@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a deferred Ph.D. student in Economics at Harvard University (beginning Fall 2020) and a Graduate Student Affiliate at the [Center for History and Economics](https://histecon.fas.harvard.edu/) and the [Institute for Quantitative Social Science](https://www.iq.harvard.edu/). My research focuses on political, experimental, and behavioral economics. I graduated from the University of Chicago in December 2018 with degrees in economics and mathematics.
+I am a first-year Ph.D. student in Economics at Harvard University and a Graduate Student Affiliate at the [Center for History and Economics](https://histecon.fas.harvard.edu/) and the [Institute for Quantitative Social Science](https://www.iq.harvard.edu/). My research focuses on political, experimental, and behavioral economics. I graduated from the University of Chicago in December 2018 with degrees in economics and mathematics.
 
 ## Research
 ### Working Papers
