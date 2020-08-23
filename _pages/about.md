@@ -19,6 +19,10 @@ I am a first-year Ph.D. student in Economics at Harvard University and a Graduat
 - The Social Cost of Partisanship: Ideological Adverse Selection Under the Affordable Care Act (with Leonardo Bursztyn, Jonathan Kolstad, Pietro Tebaldi, and Noam Yuchtman)
 - Private Attitudes, Political Norms, and Cultural Barriers to Higher Education: Chinese College Students in the US (with David Yang and Noam Yuchtman)
 
-## Statistical Software
+## Other Publications
+### Non Peer-Reviewed Publications
+- [Excuses for prejudice](https://voxeu.org/article/excuses-prejudice) (with Leonardo Bursztyn, Ingar Haaland, and Chris Roth)
+
+### Statistical Software
 - [starbility](https://github.com/AakaashRao/starbility): coefficient stability plots in R
   - [Main vignette](https://htmlpreview.github.io/?https://github.com/AakaashRao/starbility/blob/master/doc/starbility.html), [advanced usage vignette](https://htmlpreview.github.io/?https://github.com/AakaashRao/starbility/blob/master/doc/starbility-advanced.html)
