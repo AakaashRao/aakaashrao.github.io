@@ -20,7 +20,7 @@ I am a first-year Ph.D. student in Economics at Harvard University and a Graduat
 - Private Attitudes, Political Norms, and Cultural Barriers to Higher Education: Chinese College Students in the US (with David Yang and Noam Yuchtman)
 
 ## Other Publications
-### Non Peer-Reviewed Publications
+### Popular Writing and Op-eds
 - [Excuses for prejudice](https://voxeu.org/article/excuses-prejudice) (with Leonardo Bursztyn, Ingar Haaland, and Chris Roth)
 
 ### Statistical Software
