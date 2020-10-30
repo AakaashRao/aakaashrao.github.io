@@ -12,8 +12,9 @@ I am a first-year Ph.D. student in Economics at Harvard University and a Graduat
 
 ## Research
 ### Working Papers
+- [Disguising Prejudice: Popular Rationales as Excuses for Intolerant Expression](https://www.dropbox.com/s/gq4u9k43towdhmc/excuses.pdf?dl=0) (with Leonardo Bursztyn, Ingar Haaland, and Chris Roth)
 - [Misinformation During a Pandemic](https://www.dropbox.com/s/7nl9998zuwdk81i/Misinformation_During_a_Pandemic.pdf?dl=1) (with Leonardo Bursztyn, Chris Roth, and David Yanagizawa-Drott)
-- [I Have Nothing Against Them, But...](https://www.dropbox.com/s/m732nyi5kpbwf63/excuses.pdf?dl=0) (with Leonardo Bursztyn, Ingar Haaland, and Chris Roth)
+
 
 ### Work in Progress
 - The Social Cost of Partisanship: Ideological Adverse Selection Under the Affordable Care Act (with Leonardo Bursztyn, Jonathan Kolstad, Pietro Tebaldi, and Noam Yuchtman)
