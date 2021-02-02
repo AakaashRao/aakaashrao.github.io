@@ -12,8 +12,9 @@ I am a first-year Ph.D. student in Economics at Harvard University and a Graduat
 
 ## Research
 ### Working Papers
+- [The Immigrant Next Door: Exposure, Prejudice, and Altruism](https://www.dropbox.com/s/kgy0fze9p3ph0s0/immigrant-next-door.pdf?dl=0) (with Leonardo Bursztyn, Thomas Chaney, and Tarek A. Hassan)
 - [Disguising Prejudice: Popular Rationales as Excuses for Intolerant Expression](https://www.dropbox.com/s/gq4u9k43towdhmc/excuses.pdf?dl=0) (with Leonardo Bursztyn, Ingar Haaland, and Chris Roth)
-- [Misinformation During a Pandemic](https://www.dropbox.com/s/7nl9998zuwdk81i/Misinformation_During_a_Pandemic.pdf?dl=1) (with Leonardo Bursztyn, Chris Roth, and David Yanagizawa-Drott)
+- [Misinformation During a Pandemic](https://www.dropbox.com/s/7nl9998zuwdk81i/Misinformation_During_a_Pandemic.pdf?dl=0) (with Leonardo Bursztyn, Chris Roth, and David Yanagizawa-Drott)
 
 
 ### Work in Progress
