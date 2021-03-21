@@ -24,6 +24,7 @@ I am a first-year Ph.D. student in Economics at Harvard University and a Graduat
 ## Other Publications
 ### Popular Writing and Op-eds
 - [Excuses for prejudice](https://voxeu.org/article/excuses-prejudice) (with Leonardo Bursztyn, Ingar Haaland, and Chris Roth)
+- [Long-run contact with immigrant groups, prejudice, and altruism](https://voxeu.org/article/long-run-contact-immigrant-groups-prejudice-and-altruism) (with Leonardo Bursztyn, Thomas Chaney, and Tarek A. Hassan)
 
 ### Statistical Software
 - [starbility](https://github.com/AakaashRao/starbility): coefficient stability plots in R
