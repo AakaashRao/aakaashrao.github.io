@@ -12,7 +12,7 @@ I am a second-year Ph.D. student in Economics at Harvard University and a Gradua
 
 ## Research
 ### Working Papers
-- [Opinions as Facts](https://www.dropbox.com/s/0ul4iqi0zr9m9tk/opinions.pdf?dl=0) (with Leonardo Bursztyn, Chris Roth, and David Yanagizawa-Drott)
+- [Opinions as Facts](https://github.com/AakaashRao/aakaashrao.github.io/blob/2ee2a5dfa84c3a8c6b8c8fc20fc3f99c8958e23e/files/opinions.pdf) (with Leonardo Bursztyn, Chris Roth, and David Yanagizawa-Drott)
   - This working paper subsumes a previous draft circulated under the title [Misinformation During a Pandemic](https://www.dropbox.com/s/7nl9998zuwdk81i/Misinformation_During_a_Pandemic.pdf?dl=0)
 - [Disguising Prejudice: Popular Rationales as Excuses for Intolerant Expression](https://www.dropbox.com/s/gq4u9k43towdhmc/excuses.pdf?dl=0) (with Leonardo Bursztyn, Ingar Haaland, and Chris Roth)
 - [The Immigrant Next Door: Exposure, Prejudice, and Altruism](https://www.dropbox.com/s/33vat2m25zqc9g9/immigrant-next-door.pdf?dl=0) (with Leonardo Bursztyn, Thomas Chaney, and Tarek A. Hassan)
