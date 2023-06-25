@@ -14,7 +14,7 @@ I am a Ph.D. candidate in Economics at Harvard University and a Graduate Student
 
 ## Research
 ### Published and Forthcoming
-- [Justifying Dissent](https://www.dropbox.com/s/t2ttv2j2k06zpig/dissent.pdf?dl=0) (with Leonardo Bursztyn, Georgy Egorov, Ingar Haaland, and Chris Roth) --- _Quarterly Journal of Economics_, January 2023
+- [Justifying Dissent](https://www.dropbox.com/s/t2ttv2j2k06zpig/dissent.pdf?dl=0) (with Leonardo Bursztyn, Georgy Egorov, Ingar Haaland, and Chris Roth) --- _Quarterly Journal of Economics_, August 2023
   - Press: [TIME](https://time.com/6080432/tucker-carlson-profile/), [Les Affaires](https://www.lesaffaires.com/blogues/l-economie-en-version-corsee/comment-lutter-contre-la-xenophobie-en-politique-et-au-travail/618055), [Kellogg Insight](https://insight.kellogg.northwestern.edu/article/how-we-justify-our-unpopular-opinions)
 - [Opinions as Facts](https://www.dropbox.com/s/mx7yqglz4d87um2/opinions.pdf?dl=0) (with Leonardo Bursztyn, Chris Roth, and David Yanagizawa-Drott) --- _Review of Economic Studies_, December 2022
   - Press: [Washington Post](https://www.washingtonpost.com/business/2020/06/25/fox-news-hannity-coronavirus-misinformation/), [TIME](https://time.com/6080432/tucker-carlson-profile/), [NPR](https://www.npr.org/local/309/2020/05/04/849109486/study-finds-more-c-o-v-i-d-19-cases-among-viewers-of-fox-news-host-who-downplayed-pandemic), [Vox](https://www.vox.com/policy-and-politics/2020/4/22/21229360/coronavirus-covid-19-fox-news-sean-hannity-misinformation-death), [The Hill](https://thehill.com/changing-america/well-being/longevity/494227-coronavirus-deaths-greater-where-viewers-prefer-hannity)
