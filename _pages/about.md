@@ -14,6 +14,7 @@ I am a Ph.D. candidate in Economics at Harvard University and a Graduate Student
 
 ## Research
 ### Published and Forthcoming
+- [The Immigrant Next Door: Long-Term Contact, Generosity, and Prejudice](https://www.dropbox.com/s/33vat2m25zqc9g9/immigrant-next-door.pdf?dl=0) (with Leonardo Bursztyn, Thomas Chaney, and Tarek A. Hassan) --- _forthcoming at the American Economic Review_
 - [Justifying Dissent](https://www.dropbox.com/s/t2ttv2j2k06zpig/dissent.pdf?dl=0) (with Leonardo Bursztyn, Georgy Egorov, Ingar Haaland, and Chris Roth) --- _Quarterly Journal of Economics_, August 2023
   - Press: [TIME](https://time.com/6080432/tucker-carlson-profile/), [Les Affaires](https://www.lesaffaires.com/blogues/l-economie-en-version-corsee/comment-lutter-contre-la-xenophobie-en-politique-et-au-travail/618055), [Kellogg Insight](https://insight.kellogg.northwestern.edu/article/how-we-justify-our-unpopular-opinions)
 - [Opinions as Facts](https://www.dropbox.com/s/mx7yqglz4d87um2/opinions.pdf?dl=0) (with Leonardo Bursztyn, Chris Roth, and David Yanagizawa-Drott) --- _Review of Economic Studies_, December 2022
@@ -21,7 +22,6 @@ I am a Ph.D. candidate in Economics at Harvard University and a Graduate Student
 
 
 ### Working Papers
-- [The Immigrant Next Door: Long-Term Contact, Generosity, and Prejudice](https://www.dropbox.com/s/33vat2m25zqc9g9/immigrant-next-door.pdf?dl=0) (with Leonardo Bursztyn, Thomas Chaney, and Tarek A. Hassan) --- _conditionally accepted at the American Economic Review_
 - [Political Adverse Selection](https://www.dropbox.com/s/kclhtnwepfseiwg/aca.pdf?dl=0) (with Leonardo Bursztyn, Jonathan Kolstad, Pietro Tebaldi, and Noam Yuchtman)
   - Press: [Brookings Institution](https://www.brookings.edu/blog/up-front/2022/07/07/hutchins-roundup-housing-prices-institutional-ownership-and-more/)
 
