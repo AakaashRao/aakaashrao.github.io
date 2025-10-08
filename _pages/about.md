@@ -10,9 +10,12 @@ redirect_from:
 
 
 
-I am a Ph.D. candidate in Economics at Harvard University. My research focuses on political and behavioral economics. 
+I am a Ph.D. candidate in Economics at Harvard University. My research focuses on political and behavioral economics. I am on the job market in AY 2025-2026.
 
 ## Research
+### Job Market Paper
+- [The Business of the Culture War](https://www.dropbox.com/scl/fi/27v4xxenpo8wotkw1238e/rao-jmp.pdf?rlkey=x8rg0slqo9mwfhdlbqgftaw4b&dl=0) (with Shakked Noy)
+
 ### Published and Forthcoming
 - [Polarization and Public Policy: Political Adverse Selection under Obamacare](https://www.dropbox.com/s/kclhtnwepfseiwg/aca.pdf?dl=0) (with Leonardo Bursztyn, Jonathan Kolstad, Pietro Tebaldi, and Noam Yuchtman) --- _forthcoming at the Economic Journal_
   - Press: [Brookings Institution](https://www.brookings.edu/blog/up-front/2022/07/07/hutchins-roundup-housing-prices-institutional-ownership-and-more/)
