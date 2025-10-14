@@ -13,8 +13,8 @@ redirect_from:
 - [Teaching evaluations](https://www.dropbox.com/scl/fi/7tsrbivhbiym9b00zeclx/rao-teaching-evals.pdf?rlkey=6ce2bi7uemdww7m58cm5ly0o7&dl=0)
 
 ## Course Materials
+I am happy to provide .tex files and/or solutions if you wish to use these slides in your course.
 ### Slides
-I am happy to provide .tex files if you wish to use these slides in your course.
 
 - [Persuasion](https://www.dropbox.com/scl/fi/402x7bx0oykx5qk02445k/Persuasion.pdf?rlkey=4j1xjx762px8y773pf7ls9alq&dl=0)
   - Covers empirical and theoretical work on persuasion, focusing mostly on political persuasion.
@@ -29,7 +29,6 @@ I am happy to provide .tex files if you wish to use these slides in your course.
 ### Problem Sets
 - [Problem Set on Ideal Point Estimation and Topic Models](https://www.dropbox.com/s/ql3s0m0txoar3ax/pset-no-solutions.pdf?dl=0) (with Jesse Shapiro)
   - Appropriate for PhD students and advanced undergraduates.
-  - Solutions available upon request.
 - [Modeling Project: Industrial Parks](https://www.dropbox.com/scl/fi/8003bu7mp0hrpuc9pa9zn/industrial-parks-pset.pdf?rlkey=fqpdl47blmrjr4kq2er2xqw2s&dl=0)
   - Open-ended modeling project on spatial equilibrium.
   - Appropriate for advanced undergraduates.
