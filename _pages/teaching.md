@@ -14,7 +14,7 @@ I am happy to provide .tex files and/or solutions if you wish to use these mater
 ### Slides
 
 - [Persuasion](https://www.dropbox.com/scl/fi/402x7bx0oykx5qk02445k/Persuasion.pdf?rlkey=4j1xjx762px8y773pf7ls9alq&dl=0)
-  - Covers empirical and theoretical work on persuasion, focusing mostly on political persuasion.
+  - Empirical and theoretical work on persuasion, focusing mostly on political persuasion.
   - Empirical section is appropriate for PhD students and advanced undergraduates; theoretical section is appropriate for PhD students.
 - [Exciting Topics in American Political Economy](https://www.dropbox.com/scl/fi/n27a0truwiseh0gntzkro/exciting-topics.pdf?rlkey=49csqcxnq3j4huwcwafknhm40&dl=0)
   - Fly-by overview of four topics: media, prejudice, polarization, and money in politics.
