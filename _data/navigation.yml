@@ -1,5 +1,8 @@
 # main links links
 main:
+ - title: "Main"
+   url: /about/
+cv: 
   - title: "CV"
     url: https://www.dropbox.com/scl/fi/toohzkqs3mj7p26d117el/rao-cv.pdf?rlkey=jyqujefdgva4bppgzbshg4glt&dl=0
 teaching:
