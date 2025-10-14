@@ -34,11 +34,7 @@ I am a Ph.D. candidate in Economics at Harvard University. My research focuses o
 - [Long-run contact with immigrant groups, prejudice, and altruism](https://voxeu.org/article/long-run-contact-immigrant-groups-prejudice-and-altruism) (with Leonardo Bursztyn, Thomas Chaney, and Tarek A. Hassan)
 - [Rationales and social cover](https://voxeu.org/article/rationales-and-social-cover) (with Leonardo Bursztyn, Georgy Egorov, Ingar Haaland, and Chris Roth)
 
-
 ### Statistical Software
 - [starbility](https://github.com/AakaashRao/starbility): coefficient stability plots in R
   - [Main vignette](https://htmlpreview.github.io/?https://github.com/AakaashRao/starbility/blob/master/doc/starbility.html), [advanced usage vignette](https://htmlpreview.github.io/?https://github.com/AakaashRao/starbility/blob/master/doc/starbility-advanced.html)
 
-### Teaching Materials
-- [Problem Set on Ideal Point Estimation and Topic Models](https://www.dropbox.com/s/ql3s0m0txoar3ax/pset-no-solutions.pdf?dl=0) (with Jesse Shapiro)
-  - Solutions available upon request. 
