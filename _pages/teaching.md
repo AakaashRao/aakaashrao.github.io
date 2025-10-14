@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /teaching/
 title: ""
 excerpt: "Aakaash Rao"
 author_profile: true
