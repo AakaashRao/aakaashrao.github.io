@@ -10,7 +10,7 @@ author_profile: true
 - [Teaching evaluations](https://www.dropbox.com/scl/fi/7tsrbivhbiym9b00zeclx/rao-teaching-evals.pdf?rlkey=6ce2bi7uemdww7m58cm5ly0o7&dl=0)
 
 ## Course Materials
-I am happy to provide .tex files and/or solutions if you wish to use these slides in your course.
+I am happy to provide .tex files and/or solutions if you wish to use these materials in your course.
 ### Slides
 
 - [Persuasion](https://www.dropbox.com/scl/fi/402x7bx0oykx5qk02445k/Persuasion.pdf?rlkey=4j1xjx762px8y773pf7ls9alq&dl=0)
