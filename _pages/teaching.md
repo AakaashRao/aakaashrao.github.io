@@ -28,10 +28,10 @@ I am happy to provide .tex files and/or solutions if you wish to use these mater
   - Appropriate for PhD students and advanced undergraduates.
 - [Modeling Project: Industrial Parks](https://www.dropbox.com/scl/fi/8003bu7mp0hrpuc9pa9zn/industrial-parks-pset.pdf?rlkey=fqpdl47blmrjr4kq2er2xqw2s&dl=0)
   - Open-ended modeling project on spatial equilibrium.
-  - Appropriate for advanced undergraduates.
+  - Appropriate for advanced undergraduates and first-year PhD students.
 - [Modeling Project: Market for Drugs](https://www.dropbox.com/scl/fi/23dmbsax6697ig5xbw8pp/market-for-drugs-pset.pdf?rlkey=4f60yj935vjpoec8yvu4p5xge&dl=0)
   - Open-ended modeling project touching on aggregating supply curves, time inconsistency, Pigouvian taxation, and evasion and enforcement of quantity and price restrictions.
-  - Appropriate for advanced undergraduates.
+  - Appropriate for advanced undergraduates and first-year PhD students.
 - [Modeling Project: Airline Competition](https://www.dropbox.com/scl/fi/23dmbsax6697ig5xbw8pp/market-for-drugs-pset.pdf?rlkey=4f60yj935vjpoec8yvu4p5xge&dl=0)
   - Open-ended modeling project on monopoly and duopoly.
-  - Appropriate for advanced undergraduates.
+  - Appropriate for advanced undergraduates and first-year PhD students.
