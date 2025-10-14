@@ -3,9 +3,6 @@ permalink: /teaching/
 title: ""
 excerpt: "Aakaash Rao"
 author_profile: true
-redirect_from: 
-  - /teaching/
-  - /teaching.html
 ---
 
 ## Teaching Statement and Evaluations
