@@ -24,8 +24,6 @@ I am happy to provide .tex files and/or solutions if you wish to use these mater
   - Appropriate for undergraduate or graduate students.
  
 ### Problem Sets
-- [Problem Set on Ideal Point Estimation and Topic Models](https://www.dropbox.com/s/ql3s0m0txoar3ax/pset-no-solutions.pdf?dl=0) (with Jesse Shapiro)
-  - Appropriate for PhD students and advanced undergraduates.
 - [Modeling Project: Industrial Parks](https://www.dropbox.com/scl/fi/8003bu7mp0hrpuc9pa9zn/industrial-parks-pset.pdf?rlkey=fqpdl47blmrjr4kq2er2xqw2s&dl=0)
   - Open-ended modeling project on spatial equilibrium.
   - Appropriate for advanced undergraduates and first-year PhD students.
@@ -35,3 +33,9 @@ I am happy to provide .tex files and/or solutions if you wish to use these mater
 - [Modeling Project: Airline Competition](https://www.dropbox.com/scl/fi/23dmbsax6697ig5xbw8pp/market-for-drugs-pset.pdf?rlkey=4f60yj935vjpoec8yvu4p5xge&dl=0)
   - Open-ended modeling project on monopoly and duopoly.
   - Appropriate for advanced undergraduates and first-year PhD students.
+- [Problem Set on Ideal Point Estimation and Topic Models](https://www.dropbox.com/s/ql3s0m0txoar3ax/pset-no-solutions.pdf?dl=0) (with Jesse Shapiro)
+  - Appropriate for PhD students and advanced undergraduates.
+- [Problem Set on Political Agency](https://www.dropbox.com/scl/fi/wu8admqgi57wv5ekpz4de/agency-pset.pdf?rlkey=uot1i5l2rlei28awfdonmj2ds&dl=0) (with Jörg Spenkuch)
+  - Appropriate for PhD students and advanced undergraduates.
+- [Problem Set on Expressive/Strategic Voting and Close Election RDDs](https://www.dropbox.com/scl/fi/pa01hn9qsi2n7jb4cek9x/rdd-pset.pdf?rlkey=n6yufuea32r9q105ifyuxdi7d&dl=0) (with Vincent Pons)
+  - Appropriate for PhD students.
