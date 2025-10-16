@@ -42,3 +42,7 @@ I am happy to provide .tex files and/or solutions if you wish to use these mater
   - Appropriate for PhD students and advanced undergraduates.
 - [Problem Set on Expressive/Strategic Voting and Close Election RDDs](https://www.dropbox.com/scl/fi/pa01hn9qsi2n7jb4cek9x/rdd-pset.pdf?rlkey=n6yufuea32r9q105ifyuxdi7d&dl=0) (with Vincent Pons)
   - Appropriate for PhD students.
+ 
+### Exams
+- [Advanced Intermediate Microeconomics: Midterm](https://www.dropbox.com/scl/fi/f00ulkwpuiw6ruodjuhea/midterm.pdf?rlkey=rpttrlw4y9h51rvqypvytvzby&dl=0)
+- [Advanced Intermediate Microeconomics: Final](https://www.dropbox.com/scl/fi/e1ye7b0qd3q61tg4wpwee/final.pdf?rlkey=mjitktday5xp36q57yoiuo7u7&dl=0)
