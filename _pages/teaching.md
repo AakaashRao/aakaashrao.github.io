@@ -16,6 +16,9 @@ I am happy to provide .tex files and/or solutions if you wish to use these mater
 - [Persuasion](https://www.dropbox.com/scl/fi/402x7bx0oykx5qk02445k/Persuasion.pdf?rlkey=4j1xjx762px8y773pf7ls9alq&dl=0)
   - Empirical and theoretical work on persuasion, focusing mostly on political persuasion.
   - Empirical section is appropriate for PhD students and advanced undergraduates; theoretical section is appropriate for PhD students.
+- [Social Media and Politics](https://www.dropbox.com/scl/fi/ieyo0za5j5lx3eyabfyq9/social-media-and-politics.pdf?rlkey=3c9zyjwon2gzfa3585pjrwscd&dl=0)
+  - Introduction to topics in the political economy of social media in autocracies and democracies.
+  - Appropriate for undergraduate students.
 - [Exciting Topics in American Political Economy](https://www.dropbox.com/scl/fi/n27a0truwiseh0gntzkro/exciting-topics.pdf?rlkey=49csqcxnq3j4huwcwafknhm40&dl=0)
   - Fly-by overview of four topics: media, prejudice, polarization, and money in politics.
   - Appropriate for undergraduate students.
