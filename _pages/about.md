@@ -15,7 +15,7 @@ I am a Ph.D. candidate in Economics at Harvard University. My research focuses o
 ## Research
 ### Job Market Paper
 - [The Business of the Culture War](https://www.dropbox.com/scl/fi/27v4xxenpo8wotkw1238e/rao-jmp.pdf?rlkey=x8rg0slqo9mwfhdlbqgftaw4b&dl=0) (with Shakked Noy)
-  - Press: [Financial Times](https://www.ft.com/content/50603d73-49fe-4d2d-b9e9-5cfe39be0353), [American Bar Association](https://www.americanbar.org/groups/law_national_security/nslt/profiting-from-polarization-the-economics-of-americas-culture-war/)
+  - Press: [Financial Times](https://www.ft.com/content/50603d73-49fe-4d2d-b9e9-5cfe39be0353), [American Bar Association](https://www.americanbar.org/groups/law_national_security/nslt/profiting-from-polarization-the-economics-of-americas-culture-war/), [Strength in Numbers](https://www.gelliottmorris.com/p/how-cable-news-fueled-the-culture), [Science of Politics Podcast](https://www.niskanencenter.org/how-media-incentives-stoked-the-culture-war/)
 
 ### Published and Forthcoming
 - [Polarization and Public Policy: Political Adverse Selection under Obamacare](https://www.dropbox.com/s/kclhtnwepfseiwg/aca.pdf?dl=0) (with Leonardo Bursztyn, Jonathan Kolstad, Pietro Tebaldi, and Noam Yuchtman) --- _forthcoming at the Economic Journal_
