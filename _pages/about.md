@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I am a Ph.D. candidate in Economics at Harvard University. My research focuses on political and behavioral economics. I am on the job market in AY 2025-2026.
+I am a Ph.D. candidate in Economics at Harvard University. My research focuses on political and behavioral economics. I will move to the Department of Managerial Economics and Decision Sciences in the Kellogg School of Management at Northwestern University as a Donald P. Jacobs Scholar (AY 2026-27) and an Assistant Professor (AY 2027-). 
 
 ## Research
 ### Job Market Paper
