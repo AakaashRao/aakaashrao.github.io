@@ -5,10 +5,6 @@ excerpt: "Aakaash Rao"
 author_profile: true
 ---
 
-## Teaching Statement and Evaluations
-- [Teaching statement](https://www.dropbox.com/scl/fi/m7lwipo79orx3vuc97n4q/rao-teaching-statement.pdf?rlkey=07f062hh41np5suhidgy74zmp&dl=0)
-- [Teaching evaluations](https://www.dropbox.com/scl/fi/7tsrbivhbiym9b00zeclx/rao-teaching-evals.pdf?rlkey=6ce2bi7uemdww7m58cm5ly0o7&dl=0)
-
 ## Course Materials
 I am happy to provide .tex files and/or solutions if you wish to use these materials in your course.
 ### Slides
