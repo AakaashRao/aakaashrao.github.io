@@ -9,10 +9,7 @@ redirect_from:
 ---
 
 
-
-I am a Ph.D. candidate in Economics at Harvard University. My research focuses on political and behavioral economics, with particular interests in the economics of attention and persuasion.
-
-I will move to the Kellogg School of Management at Northwestern University as a Donald P. Jacobs Scholar (AY 2026-27) and an Assistant Professor (AY 2027-) in the Department of Managerial Economics and Decision Sciences.
+I am a Donald P. Jacobs Scholar (AY 2026-27) and Assistant Professor (AY 2027-) in the Department of Managerial Economics and Decision Sciences at the Kellogg School of Management at Northwestern University. My research focuses on political and behavioral economics, with particular interests in the economics of attention and persuasion.
 
 ## Research
 ### Job Market Paper
