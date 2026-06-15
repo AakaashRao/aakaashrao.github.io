@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Donald P. Jacobs Scholar (AY 2026-27) and Assistant Professor (AY 2027-) in the Department of Managerial Economics and Decision Sciences at the Kellogg School of Management at Northwestern University. My research focuses on political and behavioral economics, with particular interests in the economics of attention and persuasion.
+I am a Donald P. Jacobs Scholar (AY 2026-27) and Assistant Professor (AY 2027-) in the Department of Managerial Economics and Decision Sciences at the Kellogg School of Management at Northwestern University. My research focuses on political and behavioral economics, with particular interests in the economics of attention and persuasion. I received my Ph.D. from Harvard University in 2026.
 
 ## Research
 ### Job Market Paper
