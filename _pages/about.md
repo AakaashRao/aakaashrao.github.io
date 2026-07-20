@@ -17,7 +17,7 @@ I am a Donald P. Jacobs Scholar (AY 2026-27) and Assistant Professor (2026-) in 
   - Press: [Vox](https://www.vox.com/politics/475325/cable-news-culture-war-social-media-trump), [Financial Times](https://www.ft.com/content/50603d73-49fe-4d2d-b9e9-5cfe39be0353),  [American Bar Association](https://www.americanbar.org/groups/law_national_security/nslt/profiting-from-polarization-the-economics-of-americas-culture-war/), [Strength in Numbers](https://www.gelliottmorris.com/p/how-cable-news-fueled-the-culture), [Science of Politics Podcast](https://www.niskanencenter.org/how-media-incentives-stoked-the-culture-war/)
 
 ### Published and Forthcoming
-- [Polarisation and Public Policy: Political Adverse Selection under Obamacare](https://doi.org/10.1093/ej/ueaf079) (with Leonardo Bursztyn, Jonathan Kolstad, Pietro Tebaldi, and Noam Yuchtman) --- _The Economic Journal_, 2025, ueaf079
+- [Polarisation and Public Policy: Political Adverse Selection under Obamacare](https://doi.org/10.1093/ej/ueaf079) (with Leonardo Bursztyn, Jonathan Kolstad, Pietro Tebaldi, and Noam Yuchtman) --- _The Economic Journal_, 2025
   - Press: [Brookings Institution](https://www.brookings.edu/blog/up-front/2022/07/07/hutchins-roundup-housing-prices-institutional-ownership-and-more/)
 - [The Immigrant Next Door](https://doi.org/10.1257/aer.20220376) (with Leonardo Bursztyn, Thomas Chaney, and Tarek A. Hassan) --- _American Economic Review_, 114(2), February 2024, 348--384
 - [Justifying Dissent](https://doi.org/10.1093/qje/qjad007) (with Leonardo Bursztyn, Georgy Egorov, Ingar Haaland, and Chris Roth) --- _Quarterly Journal of Economics_, 138(3), August 2023, 1403--1451
