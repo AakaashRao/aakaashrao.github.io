@@ -19,7 +19,7 @@ I am a Donald P. Jacobs Scholar (AY 2026-27) and Assistant Professor (2026-) in 
 ### Published and Forthcoming
 - [Polarisation and Public Policy: Political Adverse Selection under Obamacare](https://doi.org/10.1093/ej/ueaf079) (with Leonardo Bursztyn, Jonathan Kolstad, Pietro Tebaldi, and Noam Yuchtman) --- _The Economic Journal_, 2025, ueaf079
   - Press: [Brookings Institution](https://www.brookings.edu/blog/up-front/2022/07/07/hutchins-roundup-housing-prices-institutional-ownership-and-more/)
-- [The Immigrant Next Door: Long-Term Contact, Generosity, and Prejudice](https://www.dropbox.com/s/33vat2m25zqc9g9/immigrant-next-door.pdf?dl=0) (with Leonardo Bursztyn, Thomas Chaney, and Tarek A. Hassan) --- _American Economic Review, February 2024_
+- [The Immigrant Next Door](https://doi.org/10.1257/aer.20220376) (with Leonardo Bursztyn, Thomas Chaney, and Tarek A. Hassan) --- _American Economic Review_, 114(2), February 2024, 348--384
 - [Justifying Dissent](https://doi.org/10.1093/qje/qjad007) (with Leonardo Bursztyn, Georgy Egorov, Ingar Haaland, and Chris Roth) --- _Quarterly Journal of Economics_, 138(3), August 2023, 1403--1451
   - Press: [TIME](https://time.com/6080432/tucker-carlson-profile/), [Les Affaires](https://www.lesaffaires.com/blogues/l-economie-en-version-corsee/comment-lutter-contre-la-xenophobie-en-politique-et-au-travail/618055), [Kellogg Insight](https://insight.kellogg.northwestern.edu/article/how-we-justify-our-unpopular-opinions)
 - [Opinions as Facts](https://doi.org/10.1093/restud/rdac065) (with Leonardo Bursztyn, Chris Roth, and David Yanagizawa-Drott) --- _Review of Economic Studies_, 90(4), July 2023, 1832--1864
