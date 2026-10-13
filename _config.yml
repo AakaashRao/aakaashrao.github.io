@@ -17,7 +17,7 @@ repository               : "AakaashRao/aakaashrao.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -117,6 +117,31 @@ exclude:
   - package.json
   - tmp
   - vendor
+  # AcademicPages examples and authoring tools are not public site content.
+  # Keep these excluded so their URLs return 404 and leave the search index.
+  - _drafts
+  - _portfolio
+  - _posts
+  - _publications
+  - _talks
+  - _teaching
+  - _pages/archive-layout-with-content.md
+  - _pages/category-archive.html
+  - _pages/collection-archive.html
+  - _pages/markdown.md
+  - _pages/non-menu-page.md
+  - _pages/page-archive.html
+  - _pages/sitemap.md
+  - _pages/tag-archive.html
+  - _pages/year-archive.html
+  - files/paper1.pdf
+  - files/paper2.pdf
+  - files/paper3.pdf
+  - markdown_generator
+  - talkmap
+  - talkmap.ipynb
+  - talkmap.py
+  - CONTRIBUTING.md
 keep_files:
   - .git
   - .svn

@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Main"
-    url: /about/
+    url: /
   - title: "CV"
     url: /files/rao-cv.pdf
   - title: "Teaching"
