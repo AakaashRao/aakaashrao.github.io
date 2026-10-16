@@ -12,7 +12,7 @@ redirect_from:
 I am a Donald P. Jacobs Scholar (AY 2026-27) and Assistant Professor (2026-) in the Department of Managerial Economics and Decision Sciences at the Kellogg School of Management at Northwestern University. My research focuses on political and behavioral economics, with particular interests in the economics of attention and persuasion. I received my Ph.D. in Economics from Harvard University in 2026.
 
 ## Research
-### Job Market Paper
+### Working Papers
 - [The Business of the Culture War](https://www.dropbox.com/scl/fi/27v4xxenpo8wotkw1238e/rao-jmp.pdf?rlkey=x8rg0slqo9mwfhdlbqgftaw4b&dl=0) (with Shakked Noy)
   - Press: [Vox](https://www.vox.com/politics/475325/cable-news-culture-war-social-media-trump), [Financial Times](https://www.ft.com/content/50603d73-49fe-4d2d-b9e9-5cfe39be0353),  [American Bar Association](https://www.americanbar.org/groups/law_national_security/nslt/profiting-from-polarization-the-economics-of-americas-culture-war/), [Strength in Numbers](https://www.gelliottmorris.com/p/how-cable-news-fueled-the-culture), [Science of Politics Podcast](https://www.niskanencenter.org/how-media-incentives-stoked-the-culture-war/)
 
